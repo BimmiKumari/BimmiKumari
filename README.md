@@ -24,3 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=BimmiKumari&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Snake eating my contribution graph
+![snake gif](https://github.com/BimmiKumari/BimmiKumari/blob/output/github-contribution-grid-snake.gif)
