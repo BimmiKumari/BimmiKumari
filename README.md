@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**BimmiKumari/BimmiKumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I am BIMMI👋
 
 # 💫 About Me:
 🔭 looking forward for internship<br>🤝 I’m looking for help with java project<br>🌱Currently i am learner of computer science field <br>💬 Ask me about C++,Core JAVA ,programming in c, HTML , CSS , DSA  and GitHub.<br>⚡ Fun fact: Rapid but Articulator😃.
@@ -23,8 +20,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BimmiKumari&icon=0&color=1)](https://visitcount.itsvg.in)
