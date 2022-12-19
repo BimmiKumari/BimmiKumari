@@ -1,7 +1,7 @@
 ### Hi there I am BIMMI👋
 
-# 💫 About Me:
-🔭 looking forward for internship<br>🤝 I’m looking for help with java project<br>🌱Currently i am learner of computer science field <br>💬 Ask me about C++,Core JAVA ,programming in c, HTML , CSS , DSA  and GitHub.<br>⚡ Fun fact: Rapid but Articulator😃.
+#### 💫 About Me:
+🔭 I am a quick learner,problem solver,front-end developer and a cloud computing admirer<br>🤝 I’m looking for help with java project and for internship<br>🌱Currently i am learner of computer science field <br>💬 Ask me about C++,Core JAVA ,programming in c, HTML , CSS , DSA  and GitHub.<br>⚡ Fun fact: Rapid but Articulator😃.
 
 
 ## 🌐 Socials:
@@ -23,6 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BimmiKumari&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Snake eating my contribution graph
-![snake gif](https://github.com/BimmiKumari/BimmiKumari/blob/output/github-contribution-grid-snake.gif)
+
