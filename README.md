@@ -1,7 +1,9 @@
 ### Hi there I am BIMMI👋
 
 #### 💫 About Me:
-🔭 I am a quick learner,problem solver,front-end developer and a cloud computing admirer<br>🤝 I’m looking for help with java project and for internship<br>🌱Currently i am learner of computer science field <br>💬 Ask me about C++,Core JAVA ,programming in c, HTML , CSS , DSA  and GitHub.<br>⚡ Fun fact: Rapid but Articulator😃.
+ I am a quick learner,problem solver,front-end developer and a cloud computing admirer.
+ <br>
+<br>🤝 I’m looking for help with java project and for internship<br>🌱Currently i am learner of computer science field <br>💬 Ask me about C++,Core JAVA ,programming in c, HTML , CSS , DSA  and GitHub.<br>⚡ Fun fact: Rapid but Articulator😃.
 
 
 ## 🌐 Socials:
