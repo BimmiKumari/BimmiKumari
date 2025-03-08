@@ -3,7 +3,7 @@
 #### 💫 About Me:
  I am a quick learner,problem solver,Mern stack web developer and data science and machine learning admirer .
  <br>
-<br>🤝 I’m looking for internship<br>🌱Currently i am learner of computer science field <br>💬 Ask me about C++,Php,Core JAVA ,Javascript,Web development,programming in c, HTML , CSS , DSA  and GitHub.<br>⚡ Fun fact: Rapid but Articulator😃.
+<⚡ Fun fact: Rapid but Articulator😃.
 
 
 ## 🌐 Socials:
